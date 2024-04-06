@@ -1,5 +1,6 @@
 body {
-    background:linear-gradient(blue,pink,purple,rgb(0, 0, 0));
+    background:linear-gradient(#b3eaff,
+        #962ecc,rgb(0, 0, 0));
     padding: 40px 40px 40px 40px;
     font-family: "Montserrat", sans-serif;
 }
@@ -22,7 +23,7 @@ ol {
 .main-content {
     padding: 88px 80px 40px 80px;
     box-sizing: border-box;
-    background-color: #b8deff;
+    background-color: #b3eaff;
 }
 .foto{
     margin: 22px;
