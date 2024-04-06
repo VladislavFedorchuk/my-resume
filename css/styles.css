@@ -24,8 +24,10 @@ ol {
     box-sizing: border-box;
     background-color: #b8deff;
 }
+.foto{
+    margin: 22px;
+}
 
-/* Sidebar */
 .sidebar {
     background: #e0ebfe;
     padding-bottom: 40px;
@@ -33,9 +35,7 @@ ol {
     width: 370px;
 }
 
-.foto{
-    margin: 22px;
-}
+
 .sidebar-content {
     padding-left: 40px;
     padding-top: 40px;
