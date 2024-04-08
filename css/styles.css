@@ -27,6 +27,7 @@ ol {
 }
 .foto{
     margin: 22px;
+    width: 230px;
 }
 
 .sidebar {
@@ -251,7 +252,7 @@ ol {
 }
 
 .work-experience-period {
-    color: #a8a8a8;
+    color: #2a2727;
     font-size: 12px;
     font-weight: 400;
     line-height: 15px;
