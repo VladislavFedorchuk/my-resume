@@ -1,6 +1,5 @@
 body {
-    background:linear-gradient(#b3eaff,
-        #962ecc,rgb(0, 0, 0));
+    background:linear-gradient(#b3eaff,rgb(249, 249, 249));
     padding: 40px 40px 40px 40px;
     font-family: "Montserrat", sans-serif;
 }
